@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "murillo",
+      "email": "mmaxims21",
+      "comentários": "Nativa do México, América Central e Caraíbas esta é uma verdadeira gigante da natureza podendo atingir até 70 metros de altura. Encontrada nas florestas abertas tropicais e pantanosas e também nas margens dos rios de águas barrentas. Os frutos são capsulas normalmente elipticas que podem chegar a 16cm de cmprimento contendo mais de 100 sementes em seu interior, cada uma envolta por um algodão branco ou acizentado, fibroso, leve e elástico.   ",
+      "id": 3
+    },
+    {
+      "name": "murillom",
+      "email": "asdasdasd",
+      "comentários": "Antes das CSS3, criar bordas arredondadas em elementos HTML era uma tarefa pouco intuitiva e custosa, pois normalmente era necessário utilizar uma ou mais imagens para obter essa característica. Com o recurso border-radius da versão mais recente das CSS, tornou-se mais fácil obter esse resultado, bastando atribuir um valor numérico para essa propriedade, da mesma forma como é feita para outros atributos como border-width e border-color.  Sintaxe",
+      "id": 4
+    }
+  ]
+}
